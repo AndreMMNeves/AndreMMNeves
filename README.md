@@ -24,7 +24,7 @@ Inglês Nível Intermediário - Wizard
   ## Contate-me 
  
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/andr%C3%A9-marcos-matheus-neves-59a05528a/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=Andre%20Marcos%20Matheus%20Neves&origin=GLOBAL_SEARCH_HEADER&sid=oav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
 </div>
 
 <!--
