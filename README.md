@@ -24,7 +24,7 @@ Inglês Nível A2 - Wizard by Pearson
   ## Contate-me 
  
 <div align="left"> 
-  <a href="https://br.linkedin.com/in/andr%C3%A9-marcos-matheus-neves-59a05528a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+  <a href="www.linkedin.com/in/andré-marcos-matheus-neves-551ab9336" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
 </div>
 
 <!--
