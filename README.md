@@ -1,22 +1,22 @@
 ## Seja Bem Vindo a Meu Repositório! 
 
-Me chamo André e tenho 18 anos! Recentemente conclui o ensino médio integrado com ensino
+Me chamo André e tenho 19 anos! Recentemente conclui o ensino médio integrado com ensino
 técnico em Análise e Desenvolvimento de Sistemas e o curso de Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
-Possuo conhecimentos sólidos em bancos de dados, tanto relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), React-Native, Ionic, DevOps e com a plataforma Azure, criando e gerenciando recursos em nuvem!
+Possuo conhecimentos sólidos em bancos de dados, tanto relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), C++, React-Native, JavaScript !
 
 Competências:
 
 Desenvolvimento de aplicações web, móveis e Desktop
 Arquitetura de software e design de sistemas
 Análise de dados
-Integração de sistemas e APIs
 Segurança da informação
 
 Educação:
 
+Cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas - Anhembi Morumbi /
 Graduação em Desenvolvimento de Sistemas - Etec Taboão da Serra /
-Inglês Nível Intermediário - Wizard
+Inglês Nível A2 - Wizard by Pearson
 
 
 ### Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
