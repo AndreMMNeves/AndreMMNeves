@@ -16,7 +16,7 @@ Educação:
 
 Cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas - Anhembi Morumbi /
 Graduação em Desenvolvimento de Sistemas - Etec Taboão da Serra /
-Inglês Nível A2 - Wizard by Pearson
+Inglês Nível C2 - Wizard by Pearson
 
 
 ### Fique à vontade para entrar em contato ou colaborar em alguma iniciativa interessante! 👋 
