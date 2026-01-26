@@ -1,6 +1,6 @@
 ## Seja Bem Vindo a Meu Repositório! 
 
-Me chamo André e tenho 19 anos! Recentemente conclui o ensino médio integrado com ensino
+Me chamo André e tenho 20 anos! Recentemente conclui o ensino médio integrado com ensino
 técnico em Análise e Desenvolvimento de Sistemas e o curso de Desenvolvimento de Sistemas pela ETEC de Taboão da Serra! 
 
 Possuo conhecimentos sólidos em bancos de dados, tanto relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C# (Windows Forms), C++, React-Native, JavaScript !
