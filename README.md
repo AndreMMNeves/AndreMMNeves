@@ -127,17 +127,17 @@ const andre = {
     <tr>
       <td><b>Inglês — Nível C2 (Proficiência)</b></td>
       <td>Wizard by Pearson</td>
-      <td>—</td>
+      <td><i>3 Anos</i></td>
     </tr>
     <tr>
       <td><b>Técnico em Análise e Desenvolvimento de Sistemas</b></td>
       <td>ETEC Taboão da Serra</td>
-      <td>—</td>
+      <td><i>3 Semestres</i></td>
     </tr>
     <tr>
-      <td><i>Adicione mais certificados aqui</i></td>
-      <td><i>Instituição</i></td>
-      <td><i>Ano</i></td>
+      <td><b>Analista e Desenvolvedor de Sistemas</b></td>
+      <td><i>Universidade Anhembi Morumbi</i></td>
+      <td><i>2 Anos</i></td>
     </tr>
   </tbody>
 </table>
